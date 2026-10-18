@@ -1,0 +1,16 @@
+E-Commerce Sales Analysis
+Delivered orders; item prices exclude freight
+
+total_orders: 96478.0
+items_sold: 110197.0
+revenue: 13221498.11
+average_order_value: 137.04
+
+Data source: Olist Brazilian E-Commerce Public Dataset
+SQL engine: DuckDB
+Revenue currency: Brazilian real (BRL)
+
+Monthly growth chart note:
+Growth comparisons are plotted only when
+previous-month revenue is at least R$10,000.
+The original monthly growth CSV is unchanged.
