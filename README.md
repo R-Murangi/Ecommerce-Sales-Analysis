@@ -16,14 +16,6 @@ Raw datasets are not included in this repository.
 
 1. Install Python 3.10+ and make sure `python` works in a terminal.
 2. Copy the four CSV files into `data/`.
-3. Double-click `run_project.bat` or run:
-
-```powershell
-python -m pip install -r requirements.txt
-python python/main.py
-```
-
-Generated files appear in `images/` (PNG charts) and `results/` (CSV summaries and `summary.txt`). The folders start empty.
 
 ## Analysis
 
